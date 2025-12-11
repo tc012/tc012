@@ -4,5 +4,5 @@ I'm tc012 but call me Andrew.
 - I do program stuff, I've started to learn C+ :)
 
 ## Projects that I am working on or done:
-- DisableNewOutlook (New Outlook is pure garbage so I made a fix)
+- DisableNewOutlook (New Outlook is pure garbage so I made a script that disables it.)
 - AllProgramUpdater (no we do not talk about this one, i hate it too)
