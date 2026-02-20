@@ -1,5 +1,5 @@
 # Welcome to my profile!
-I'm tc012 but call me Andrew.
+I'm tc012 and:
 - I do stuff with technology
 - I do program stuff, I've started to learn CSS and Python
 
